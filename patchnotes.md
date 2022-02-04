@@ -18,6 +18,7 @@ you can now view users/bots avatar using `&av` command with the option to downlo
 you can now create polls using `&poll` command!
 
 you can now soft ban users using `&softban` command, both user id and mentioning user works!, here are some important things to know before using this command!:
+
 **Notes:**
 currently supplying reason with the command is not supported but planned in future updates soon!, currently the bot automates the reason with the "softbanned to delete messages" reason
 cannot run the command as a slash command
