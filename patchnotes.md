@@ -19,7 +19,7 @@ you can now view users/bots avatar using `&av` command with the option to downlo
 
 you can now create polls using `&poll` command!
 
-you can now view patch notes for bot including stable, beta, and canary using `&patchnotes` command
+you can now view patch notes for bot including stable, beta, and canary using `&patch` command
 
 you can now soft ban users using `&softban` command, both user id and mentioning user works!, here are some important things to know before using this command!:
 
