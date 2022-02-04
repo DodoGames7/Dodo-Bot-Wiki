@@ -11,6 +11,7 @@ you can now view upload emojis to your server using `^add-emoji` command
 **Stable 1.3.2**
 
 changed error message for `&hack` command, added secret messages in the command, what is it?, who know? find it out by yourself
+
 fixed grammar with the blacklist message
 
 you can now view users/bots avatar using `&av` command with the option to download them also!
