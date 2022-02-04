@@ -3,6 +3,7 @@
 **Beta 1.3.3**
 
 beta is now back online after being unmaintained for a while
+
 you can now view upload emojis to your server using `^add-emoji` command
 
 
