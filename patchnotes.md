@@ -1,4 +1,22 @@
-# 2022 feb 4h
+# 2022 feb 5th
+
+**Stable 1.3.3**
+
+you can now add emojis to your server using `&add-emoji` command
+
+redesigned `&eject` command to be customizable, here are available options in the command:
+
+`&eject (@user) true`: true at the end of the command means eject the member as the impostor
+
+`&eject (@user) false`: false at the end of the command means eject the member as the crewmate
+
+**other improvements to the `&eject` command:**
+
+the ejected member name should no longer shows "`@`" at the start of the ejected user's name
+
+updated the embed to show the user who has triggered the command
+
+# 2022 feb 4th
 
 **Beta 1.3.3**
 
