@@ -56,5 +56,6 @@ you can now soft ban users using `&softban` command, both user id and mentioning
 
 **Notes:**
 currently supplying reason with the command is not supported but planned in future updates soon!, currently the bot automates the reason with the "softbanned to delete messages" reason
+
 cannot run the command as a slash command
 
