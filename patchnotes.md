@@ -1,3 +1,14 @@
+# 2022 feb 9th
+**Stable 1.3.4**
+
+updated embed title of `&setnick` command
+
+improved `&poll` command
+
+added error message to `&wasted` command
+
+redesigned `&weather` command to allow you to choose a city of a country!, as well as fixed grammar with the command
+
 # 2022 feb 5th
 
 **Stable 1.3.3**
