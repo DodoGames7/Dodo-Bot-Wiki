@@ -3,6 +3,8 @@
 
 updated embed title of `&setnick` command
 
+added a new fun command named `&jail`
+
 improved `&poll` command
 
 added error message to `&wasted` command
