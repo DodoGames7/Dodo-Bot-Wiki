@@ -1,4 +1,12 @@
+# 2022 feb 10th
+
+**Stable 1.3.5**
+
+**introducing ChatBot System**
+
+you can now chat with the bot using `&chat` command, it's basically a chatbot using a api to work, so the bot can act as a human, while talking to you!
 # 2022 feb 9th
+
 **Stable 1.3.4**
 
 updated embed title of `&setnick` command
