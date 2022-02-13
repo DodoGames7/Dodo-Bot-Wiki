@@ -1,5 +1,5 @@
 # 2022 feb 12th
-Stable 1.3.6 (**Quick Update)
+Stable 1.3.6 (**Quick Update**)
 
 
 improved `&chat` command to use embeds!
