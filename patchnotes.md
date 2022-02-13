@@ -1,3 +1,11 @@
+# 2022 feb 12th
+Stable 1.3.6 (**Quick Update)
+
+
+improved `&chat` command to use embeds!
+
+new command named `&triggered`
+
 # 2022 feb 10th
 
 **Stable 1.3.5**
