@@ -1,5 +1,5 @@
 # 2022 feb 16th
-**Stable 1.3.7** **(just Bug Fixes Quick Update)**
+**Stable 1.3.8** **(just Bug Fixes Quick Update)**
 
 fixed a bug with the user blacklist system being not applied to some commands such as `&weather`, `&poll`, `&av`, etc
 
