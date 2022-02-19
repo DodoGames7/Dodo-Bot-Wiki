@@ -1,3 +1,12 @@
+# 2022 feb 19th
+**Stable 1.3.9**
+
+added a fun command named `&choose`, it only supports at least 4 random words!
+
+updated the look of `&dep` command to be less confusing 
+
+added a ping command thingy where the bot automatically tells the user what’s prefix, this only works if the bot was mentioned at the start of the user’s message!
+
 # 2022 feb 16th
 **Stable 1.3.8** **(just Bug Fixes Quick Update)**
 
