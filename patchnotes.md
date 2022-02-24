@@ -1,3 +1,18 @@
+# 2022 feb 23th
+**Stable 1.4.0** **(BIG UPDATE EDITION)**
+
+```
+   important changes:
+ ✅| help command is no longer using Github Link, now it's redesigned with buttons!
+ ✅| redesigned `&version` to use embeds!
+ ✅| lowered the chance of the higher money you get/lose in `&crime` command
+ ✅| `&softban` now supports supplying reasons!
+ ✅| added drake command (`&drake`)
+ ✅| you can now set your status as AFK!, using `&afk` Command
+ ✅| you can now check information about Github Accounts using `&github` Command
+ ✅| you can now play guess a number game using `&numguess`
+ ✅| you can now change the meme in `&meme` command by clicking the "Next" Button
+ ```
 # 2022 feb 19th
 **Stable 1.3.9**
 
