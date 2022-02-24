@@ -12,7 +12,6 @@
  ✅| you can now check information about Github Accounts using `&github` Command
  ✅| you can now play guess a number game using `&numguess`
  ✅| you can now change the meme in `&meme` command by clicking the "Next" Button
- ✅| added daily command to economy system (`&daily`)
  ```
 # 2022 feb 19th
 **Stable 1.3.9**
