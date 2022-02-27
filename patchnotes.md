@@ -1,3 +1,10 @@
+# 2022 feb 27th
+**Stable 1.4.1**
+```
+ ✅| ending interaction in `&meme` command should no longer change the meme to disable the buttons, it will instead display a message that the interaction with the system has been ended
+ ✅| added a command to check the date where the bot is gonna go offline (`&expiretime`)
+ ✅| added a button to the support server in `&help` command via a button
+```
 # 2022 feb 23th
 **Stable 1.4.0** **(BIG UPDATE EDITION)**
 
