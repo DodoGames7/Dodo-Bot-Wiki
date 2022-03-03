@@ -1,3 +1,15 @@
+# 2022 mar 2th
+**Beta 1.4.3**
+```
+✅| Added Ticket System!, check `^help` command in Ticket Button for more info!
+✅| added a fun command to rate how iq the user is! (`^iqrate`)
+ ````
+# 2022 mar 1th
+**Stable 1.4.2**
+```
+ ✅| added a moderation command to clear warnings for a member (`&clearwarn`)
+ ✅| added a fake fun youtube comment (`&ytcomment`)
+````
 # 2022 feb 27th
 **Stable 1.4.1**
 ```
