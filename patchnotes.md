@@ -1,3 +1,9 @@
+# 2022 mar 3th 
+**Stable 1.4.3**
+```
+✅|added a new Economy Command for daily rewards (&daily) 
+✅|you can now check the most richest users in Economy system using &leaderboard command 
+````
 # 2022 mar 2th
 **Beta 1.4.3**
 ```
