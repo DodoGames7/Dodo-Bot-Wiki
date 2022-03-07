@@ -1,3 +1,14 @@
+# 2022 mar 7th
+**Stable 1.4.4**
+
+Hey!, it's me, dodoGames...., it's been a while since last update but i am back with a small update which is it's changes will be listed here:
+```
+✅|added daily streak system, everytime you claim your daily reward, a daily streak gets added to your economy data!
+✅|changed the api used in `&meme` command to reddit api one, cuz the previous api had issues where it posts nsfw and non memes posts which something isn't good to say
+✅|updated embed title of `&give` command to be less confusing
+✅|say command now works as a slash command! `(/say)`
+````
+
 # 2022 mar 3th 
 **Stable 1.4.3**
 ```
