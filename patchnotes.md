@@ -1,3 +1,14 @@
+# 2022 mar 13th
+**Stable 1.4.5**
+```
+✅|added weekly command (&weekly)
+✅|added monthly command (&monthly)
+✅|redesigned &serverinfo to show more details about the server!
+✅|you can now play rps game using &rps command!
+✅|you can now submit a report bug or feedback/suggestion to the bot owner using &submit command
+```
+
+
 # 2022 mar 7th
 **Stable 1.4.4**
 
