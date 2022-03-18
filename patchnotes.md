@@ -1,3 +1,12 @@
+# 2022 mar 18th
+**Beta 1.4.6**
+```
+✅|added more slash commands support!
+✅|you can now fight against a member using ^fight command
+✅|renamed youtube and google search command to ^google, ^youtube
+✅|added stonks command (^stonks)
+```
+
 # 2022 mar 13th
 **Stable 1.4.5**
 ```
