@@ -5,6 +5,9 @@
 ✅|you can now fight against a member using ^fight command
 ✅|renamed youtube and google search command to ^google, ^youtube
 ✅|added stonks command (^stonks)
+✅|you can now view available items in the shop to buy using ^shop (WIP)
+✅|you can now view your inventory using ^inv (WIP)
+✅|you can now beg for more chance of extra money using ^beg
 ```
 
 # 2022 mar 13th
