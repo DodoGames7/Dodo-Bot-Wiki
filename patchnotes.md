@@ -1,3 +1,14 @@
+# 2022 mar 23th
+**Canary 1.4.7** 
+```
+✅|canary is back after being discontinued for a very long time
+✅|added a way to change language used to translate text in $translate using $tranlng-set please note that not all languages are supported in the translate command
+✅|added a way to set a channel for poll command with $set-poll command
+✅|added a way to set a channel for suggestion command with $set-suggest command
+✅|added a command to get covid stats for a country ($covid)
+✅|added a way to set a channel for $chat command with $set-chat command
+```
+
 # 2022 mar 18th
 **Beta 1.4.6**
 ```
