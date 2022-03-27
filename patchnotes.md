@@ -1,3 +1,20 @@
+# 2022 mar 26th
+**Beta 1.4.7**
+```
+✅|changed chatbot api to be better than the previous one
+✅|added a new system to set each channel for each feature to enable them
+✅|added a system to translate any language into the default translation Language : english using ^translate
+✅|added a way to set any other language as the default translation language using ^set-translate command
+```
+# 2022 mar 24th
+**Stable 1.4.6**
+```
+✅|added beg command `(&beg)`
+✅|added stonks comamnd `(&stonks)`
+✅|you can now fight against someone else using &fight command, currently it will not work on bot's as the system does not control the bot's turn itself
+✅|added a lot of slash commands finally!
+✅|renamed &ytsearch and &googlesearch to &youtube, &google
+```
 # 2022 mar 23th
 **Canary 1.4.7** 
 ```
