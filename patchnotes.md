@@ -1,3 +1,23 @@
+# 2022 Apr 1th
+**Stable 1.4.9**
+```
+❓|1.4.8 update has been reverted due to the fact that it was a temporary update for April Fools joke
+```
+
+# 2022 Apr 1th
+**Stable 1.4.8 (April Fools update Edition)**
+```
+✅|added claim command, what's inside it, who knows, type it to find out yourself
+```
+
+# 2022 mar 31th
+**Stable 1.4.7**
+```
+✅|added a system for each feature, this is helpful to prevent sending unwanted automated messages to the server
+✅|changed chatbot api to be better than the previous
+✅|fixed a bug where users are allowed to fight against bots
+```
+
 # 2022 mar 26th
 **Beta 1.4.7**
 ```
