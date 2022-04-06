@@ -13,7 +13,7 @@
 # 2022 mar 31th
 **Stable 1.4.7**
 ```
-✅|added a system for each feature, this is helpful to prevent sending unwanted automated messages to the server
+✅|added a enable system for each feature, this is helpful to prevent sending unwanted automated messages to the server
 ✅|changed chatbot api to be better than the previous
 ✅|fixed a bug where users are allowed to fight against bots
 ```
