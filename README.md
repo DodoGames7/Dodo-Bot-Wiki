@@ -1,3 +1,6 @@
+# important
+this wiki is discontinued since it hasn't updated for months with very outdated information now, we will have our own one for the recent v1 rewrite soon, for more information join our support [server](https://discord.gg/pFwKjAaZvj)
+
 # Dodo Bot
 
 a discord bot that tries to use BDFD features to the next level!
